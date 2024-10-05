@@ -1,4 +1,3 @@
-// Підключення iziToast та стилів
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
 
